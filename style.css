@@ -1,0 +1,13 @@
+
+
+div {
+  position:fixed;
+  top:0;
+  left:50svh;
+  width:40%;
+  transform:scale(50%);
+}
+
+img {
+  width: 30%;
+}
